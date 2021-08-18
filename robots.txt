@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://bedorothy.com.br/sitemap.xml
